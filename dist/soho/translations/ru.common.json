@@ -1,0 +1,13 @@
+{
+    "messages": {
+        "common": {
+            "common.language.ru": "Русский",
+            "common.language.kz": "Қазақша",
+            "common.page.title.1": "Скриншот-предсказание",
+            "common.page.title.2": "Результат",
+            "common.page.title.3": "Видео",
+            "common.page.1.start.button.text": "Начать",
+            "common.page.2.next.button.text": "Далее"
+        }
+    }
+}
