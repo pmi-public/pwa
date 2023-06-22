@@ -1,6 +1,8 @@
 {
     "messages": {
         "common": {
+            "common.select.language.kz": "Тілді таңдаңыз",
+            "common.select.language.ru": "Выберите язык",
             "common.language.ru": "Русский",
             "common.language.kz": "Қазақша",
             "common.page.title.1": "Скриншотты болжау",
