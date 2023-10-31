@@ -18,6 +18,7 @@
             "common.customer.flow.category.program": "Тұтынушыларға арналған бағдарламалар туралы",
             "common.feedback.form.phone.label": "Телефон нөміріңізді енгізіңіз*:",
             "common.feedback.form.phone.placeholder": "+7 (7XX) XXX-XX-XX",
+            "common.feedback.form.phone.hint": "Нөмірдің дұрыстығын тексеріңіз",
             "common.feedback.form.textarea.label": "Өтінішіңізбен бөлісіңіз*:",
             "common.feedback.form.textarea.placeholder": "Жазу...",
             "common.feedback.form.required.fields": "*міндетті өрістер. Өтініште дербес деректеріңізді (аты-жөні, жеке куәлік және т.б.) көрсетпеңіз",
