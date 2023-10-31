@@ -31,7 +31,7 @@
             "common.feedback.form.program.label.3": "3-салым",
             "common.feedback.form.upload": "Жүктеу",
             "common.feedback.form.attachments": "{{number}} {number, one{файл} few{файлдар} many{файлдар}}",
-            "common.feedback.form.attachment": "Қосымша",
+            "common.feedback.form.attachment": "Файл",
             "common.feedback.form.privacy.warning": "Фотосуретте Сіздің дербес деректеріңіз (аты-жөні, жеке куәлік және т.б.), сондай-ақ Сіздің және (немесе) үшінші тұлғалардың кескіндері болмауы тиіс",
             "common.feedback.form.warning": "Біз Сіздің өтінішіңізді тиісінше өңдей алуымыз үшін қорапты САҚТАП қойыңыз",
             "common.feedback.form.goodbye": "Рақмет! Call-center Сізбен жақын арада хабарласады. Осы бетті жабуыңызға болады",
